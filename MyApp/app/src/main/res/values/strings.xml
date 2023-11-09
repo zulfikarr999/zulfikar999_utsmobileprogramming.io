@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Perjalanan sepatu Adidas Predator sejak 1994-2018</string>
+    <string name="players_name">Nama Sepatu</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Akun Dicoding</string>
+
+
+    
+
+    <string-array name="data_name">
+        <item>Adidas Predator</item>
+        <item>AdidasPredator Rapier</item>
+        <item>Adidas Predator Touch</item>
+        <item>Adidas Predator Accelerator </item>
+        <item>Adidas Predator Precision</item>
+        <item>Adidas Predator Mania</item>
+        <item>Adidas Predator Pulse</item>
+        <item>Adidas Predator Absolute</item>
+        <item>Adidas Predator 18 Team Mode </item>
+        <item>Adidas Predator Lethal Zones </item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Merk Sepatu : Adidas Predator\nLahir pada tahun :1994\nSejarah : ketika Adidas berusaha mengguncang pasar dengan sepatu bola yang dirancang untuk mengoptimalkan kontrol pemain terhadap bola ketika menggiring dan menembak. Terbuat dari kulit, sisi atas boot juga menampilkan tonjolan-tonjolan karet yang membantu meningkatkan gesekan ketika menendang bola. Hal ini memungkinkan pemain untuk menerapkan lebih banyak putaran.Richard Ashcroft, Direktur Kategori Adidas berkata, Dengan menciptakan tampilan yang unik dan memberikan teknologi Predator yang hebat, kami dapat menawarkan kepada konsumen dan pemain sesuatu yang belum pernah mereka lihat atau alami sebelumnya dalam sepatu sepakbola.Seperti kebanyakan sepatu bola pada saat itu, Predator asli didominasi warna hitam, dengan tiga garis putih Adidas dan sentuhan halus merah pada telapaknya.
+        </item>
+        <item>Merk Sepatu : Predator Rapier\nLahir pada tahun : 1995\nSejarah : Adidas meluncurkan Predator Rapier yang merupakan upgrade dari sepatu asli, meskipun tetap mempertahankan banyak fitur yang sama. Potongan karet bergerigi masih ada, tetapi hanya terbatas pada bagian atas dan sisi sepatu, yaitu area yang paling banyak digunakan oleh pemain. The Rapier juga menampilkan lidah yang lebih panjang, yang bisa dilipat ke bawah.
+Seperti aslinya, sepatu ini didominasi oleh warna hitam dengan tiga garis putih mencolok, tetapi lebih merah secara halus disambungkan ke tumit. Nama desainnya terinspirasi oleh pedang Rapier, senjata yang dirancang untuk penetrasi dan presisi.
+.</item>
+        <item>Merk Sepatu : Adidas Predator Touch\nLahir pada tahun : 1996\nSejarah :Ketika merek Predator semakin dikenal secara luas, Adidas membuat beberapa perubahan pada rentang tahun 1996 dengan gaya baru Touch. Sepatu ini memasukkan gaya stud yang berbeda yang dikenal sebagai Traxion (TRX) kancing atau pisau, yang merupakan perbaikan dari tipe melingkar sekrup tradisional. Tambalan karet bergerigi di bagian depan sepatu mengambil lebih banyak ruang daripada pendahulunya.
+Dalam hal gaya, Adidas terus menambahkan lebih banyak warna ke jangkauan produk mereka, memperbanyak warna merah di tumit dan menambahkannya ke lidah, yang bisa dilipat ke bawah untuk menutupi tali.
+Yang menarik, tiga garis yang terkenal itu, berkurang ukurannya dan menyerupai logo bergaris segitiga yang ikonik.
+.</item>
+
+        <item>Merk Sepatu : Adidas Predator Accelerator (1998).\nLahir pada tahun : 1998\nSejarah : Ketika tahun 90-an berlalu, sepatu Predator Adidas tumbuh lebih berani dalam gaya di Piala Dunia 1998 di Prancis didampingi oleh desain baru yang disebut Accelerator. Tepian karet yang merupakan fitur utama dari edisi sebelumnya berkurang ukurannya dan ditanam ke eksterior kulit boot, sementara bilah Traxion tetap pada telapak bukan kancing.
+Hitam masih warna dasar untuk Accelerator, tetapi sekali lagi lebih merah ditambahkan ke kombinasi warna, sementara tiga garis putih, yang telah berkurang ukurannya untuk Touch, lebih besar dari sebelumnya.
+Saat itu, bintang-bintang seperti Zinedine Zidane dan David Beckham mulai semakin terkait dengan sepatu Adidas Predator, sementara berbagai kombinasi warna tersedia dan sebagai hasilnya, popularitas mereka melonjak.
+Versi baru dari sepatu Accelerator diluncurkan pada tahun 2018.
+.</item>
+
+        <item>Merk Sepatu : Adidas Predator Precision\nLahir pada tahun : 2000\nSejarah : Pada pergantian milenium, Adidas meluncurkan gaya baru sepatu Predator yang memadukan elemen desain sebelumnya dengan fitur-fitur baru. Tambalan karet bergerigi dimasukkan di seluruh bagian depan sepatu, sementara bilah Traxion sekarang dapat diganti dengan cara yang sama dengan kancing tradisional. Hal ini untuk memungkinkan pemain beradaptasi dengan kondisi yang berbeda.
+Lidah sepatu Precision sedikit lebih panjang daripada Accelerator dan tiga garis yang terkenal bergelombang ke arah tumit. Sesuai dengan mode sepakbola yang selalu berubah, sepatu bola ini tersedia dalam berbagai warna, tetapi warna hitam-merah-putih tradisional tetap menjadi salah satu yang paling utama di antara mereka.
+Adidas meluncurkan edisi terbatas re-boot dari Precision pada 2017, dengan bantuan Beckham dan Zidane.
+.</item>
+
+        <item>Name:Merk Sepatu : Adidas Predator Mania\nLahir pada tahun : 2002\nSejarah : Dikenal luas sebagai sepatu yang paling ikonik di seri Predator, Adidas Predator Mania membawa nuansa yang lebih futuristik. Diluncurkan menjelang Piala Dunia 2002 di Jepang dan Korea Selatan, mereka jauh lebih ramping daripada Precision, dan rambatan karet yang sebelumnya ditampilkan di bagian depan, kini terbatas di bagian dalam, serta berubah menjadi putih kontras dengan kulit hitam.
+Sebuah pelindung tumit juga dimasukkan, sementara lidahnya lebih panjang lagi dan secara unik termasuk pita elastis, yang berada di bawah sepatu, untuk mengamankannya ke bagian atas tali.
+Berbagai macam kombinasi warna tersedia termasuk warna utama hitam-merah-putih. Kombinasi lain yang hadir adalah putih dan hitam, champagne, champagne gold, merah dan perak dan logam. Seperti rentang Accelerator, Mania dirilis ulang pada tahun 2017, dengan Beckham menjadi yang terdepan dalam kampanye promosi.
+.</item>
+
+        <item>Merk Sepatu : Adidas Predator Pulse\n
+Lahir pada tahun : 2004\nSejarah : Setelah kesuksesan Predator Mania, Adidas meluncurkan Predator Pulse pada tahun 2004 dan desainnya diperbaiki sekali lagi. Strip karet terus ditampilkan di bagian dalam sepatu, tetapi mereka dibuat lebih panjang dan lebih tipis. Mereka juga mengganti warna dari putih menjadi merah.
+Perlindungan yang lebih besar dimasukkan ke dalam desain juga, dengan material keras dari tumit yang diperpanjang ke bagian tengah eksterior. Versi Predator ini juga memperkenalkan teknologi Power Pulse yang bisa menggeser pusat gravitasi sepatu ketika kontak dengan bola, sehingga membantu menerapkan kekuatan yang lebih besar saat menembak.
+.</item>
+
+        <item>Merk Sepatu : Adidas Predator Absolute\n
+Lahir pada tahun : 2006\nSejarah : Predator Absolute mengikuti Pulse dan merupakan pilihan populer untuk para pemain di Piala Dunia 2006 di Jerman. Dalam perbedaan dari gaya pendahulunya, Adidas mengurangi jumlah garis menjadi hanya tiga, sementara alur yang jatuh vertikal di bagian bawah boot dan band elastis di lidah tetap.
+Kombinasi warna menambah jumlah warna merah sehingga ditampilkan pada tumit, sol dan bagian atas sepatu, dengan tiga garis yang bergerak lebih dekat ke depan. Warna emas edisi terbatas diciptakan untuk kapten Prancis, Zidane, yang ia kenakan di turnamen tersebut.
+.</item>
+
+        <item>Merk Sepatu :  Adidas Predator 18 Team Mode .\nLahir pada tahun : 20018\nSejarah : Empat tahun setelah penghentian produksi, Predator terlahir kembali pada tahun 2018 dengan peluncuran Predator 18 Team Mode yang baru. Predator 18 telah menghidupkan kembali tampilan tradisional yang mencirikan kisaran sepanjang tahun 2000-an, tetapi perbaikan dilakukan untuk membawa sepatu ke era modern, dengan PrimeKnit dan tekstil ControlSkin bagian atas, serta kerah sockfit untuk meningkatkan stabilitas.
+Mengingat pengalaman masa lalu, bagian depan dan sisi fitur boot memiliki tekstur bergerigi, tetapi lidah tetap menjadi bagian dari masa lalu. Pemenang Piala Dunia Paul Pogba adalah wajah era baru sepatu Predator, mengikuti jejak rekan senegaranya, Zidane.
+</item>
+
+        <item>Merk Sepatu : Adidas Predator Lethal Zones (2012)./nLahir pada tahun : 2012\nSejarah : Setelah dirilisinya Predator X, gaya lama mulai ditinggalkan dan Adidas mulai mengeksplorasi inovasi baru di seri Predator mereka. Pada tahun 2012, mereka merilis Predator Lethal Zones (atau LZ), yang sama sekali tidak seperti pendahulunya dalam hal desain.
+Faktanya, karena mereka menggunakan teknologi SprintFrame yang sama dan konfigurasi stud, LZ Predator lebih mirip dengan rentang F50 dan adiPure baru. The Lethal Zones yang disinggung dalam nama boot adalah lima bagian berbeda dari sepatu, yaitu sentuhan pertama, dribble, drive, pass dan sweet spot yang masing-masing dioptimalkan untuk area permainan yang berbeda.
+.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/img</item>
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_4</item>
+        <item>@drawable/img_5</item>
+        <item>@drawable/img_6</item>
+        <item>@drawable/img_7</item>
+        <item>@drawable/img_8</item>
+        <item>@drawable/img_9</item>
+    </integer-array>
+</resources>
